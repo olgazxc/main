@@ -1,2 +1,3 @@
 # main
 begin
+add main
